@@ -1,3 +1,5 @@
 requests~=2.27.1
 folium~=0.12.1.post1
-pyfiglet~=0.8.post1
+Eel~=0.14.0
+PyAutoGUI~=0.9.53
+PyQt5~=5.15.6
